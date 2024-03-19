@@ -18,5 +18,5 @@
 
 **圖片來源：**
 下載於www.flaticon.com上，由Freepik製作的icon，網址分別如下：
-1. 小精靈：<a href="https://www.flaticon.com/free-icons/pacman" title="pacman icons">Pacman icons created by Tahsin Tahil - Flaticon</a>
-2. 鬼：<a href="https://www.flaticon.com/free-icons/casper" title="casper icons">Casper icons created by Sergei Kokota - Flaticon</a>
+1. 小精靈(pacman_t.png、pacman_b.png、pacman_r.png、pacman_l.png)：<a href="https://www.flaticon.com/free-icons/pacman" title="pacman icons">Pacman icons created by Tahsin Tahil - Flaticon</a>
+2. 鬼()：<a href="https://www.flaticon.com/free-icons/casper" title="casper icons">Casper icons created by Sergei Kokota - Flaticon</a>
