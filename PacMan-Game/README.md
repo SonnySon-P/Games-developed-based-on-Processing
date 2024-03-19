@@ -6,11 +6,17 @@
 
 **開發環境：** Processing(該IDE以Java為撰寫語言)
 
-**遊戲解說：** 進行遊戲過程，遊戲畫面會出現10X10的格子，遊戲玩家必須在每一輪遊戲選擇按下一個格子。按下的格子的操作可分成『不是地雷』與是『是地雷』兩種選項，當此格子若是地雷卻按『不是地雷』，則會結束遊戲。可是，當按下『不是地雷』選項，該格也不是地雷的情況下，則會以此格為中心，周圍8格有地雷的數量。而過關的條件，便是將畫面中的地雷全部找出。
+**遊戲解說：** 遊戲過程中，必須不被鬼給碰觸到，否則將會結束遊戲。而過關的條件，便是將畫面中的所有黃色星星都吃完。
+
 <br>
 <div align="center">
 	<img src="./遊戲截圖.png" alt="Editor" width="500">
 </div>
 <br>
 
-**操作方式：** 遊戲操作方式，是透過滑鼠來進行，滑鼠左鍵是『不是地雷』，滑鼠右鍵是『是地雷』。
+**操作方式：** 鍵盤按鍵w為小精靈向上移動，s為小精靈向下移動，a為小精靈向左移動，d為小精靈向右移動。
+
+**圖片來源：**
+下載於www.flaticon.com上，由Freepik製作的icon，網址分別如下：
+小精靈：<a href="https://www.flaticon.com/free-icons/pacman" title="pacman icons">Pacman icons created by Tahsin Tahil - Flaticon</a>
+鬼：<a href="https://www.flaticon.com/free-icons/casper" title="casper icons">Casper icons created by Sergei Kokota - Flaticon</a>
